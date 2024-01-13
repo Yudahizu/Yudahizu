@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yudahizu
+- 👋 Hi, Yudita here! 
 - 👀 I’m interested in programing videogames
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on videogames proyects
+- 🌱 I’m currently learning nodejs and full stack
+- 💞️ I’m looking to share my proyects with you
 - 📫 How to reach me ...
 
 <!---
