@@ -1,6 +1,6 @@
 - 👋 Hi, Yudita here! 
-- 👀 I’m interested in programing videogames
-- 🌱 I’m currently learning nodejs and full stack
+- 👀 I’m interested in programing web pages
+- 🌱 I’m currently learning full stack focusing in front end
 - 💞️ I’m looking to share my proyects with you
 - 📫 How to reach me ...
 
